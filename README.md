@@ -1,5 +1,7 @@
-# space-invaders
-`This is my pre-university work on a python space invaders game using the pygame library.
+This is a personal project before enrolling in university.
 
-I am currently in the process of making this program far better using OOP, classes, and data structures.
-Aside from making the code more professional and readable, I hope to add many new features such as difficulty, and different game modes.
+This project makes use of the Pygame library and does not have any object-oriented aspects. 
+
+
+
+I legally acquired the art for the background, foreground objects, sound effects, and music.
